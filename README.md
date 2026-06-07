@@ -39,7 +39,7 @@ Every monitored metric — bid rate, win rate, **render rate** — stayed green,
 
 ## Run it yourself
 
-Built and tested on PostgreSQL (also runs on DuckDB). Load `data/part_01_of_11.sql` first (it creates the schema), then `part_02` through `part_11` in order, then run any file in `queries/`.
+Built and tested on PostgreSQL (Supabase). Load `data/part_01_of_11.sql` first (it creates the schema), then `part_02` through `part_11` in order, then run any file in `queries/`.
 
 ## Skills demonstrated
 
